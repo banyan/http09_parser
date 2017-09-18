@@ -1,0 +1,7 @@
+[package]
+name = "http09_parser"
+version = "0.1.0"
+authors = ["Kohei Hasegawa <ameutau@gmail.com>"]
+
+[dependencies]
+nom = "^3.2"
